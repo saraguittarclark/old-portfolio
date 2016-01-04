@@ -10,7 +10,11 @@ title: Sara Clark
 email: sara.guittar@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Mom to a toddler and learning to code at the same time. Recommended?
+<<<<<<< HEAD
 baseurl: "" # the subpath of your site, e.g. /blog
+=======
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+>>>>>>> master
 url: "http://www.saraguittarclark.github.io" # the base hostname & protocol for your site
 twitter_username: sara_g_clark
 github_username:  saraguittarclark
